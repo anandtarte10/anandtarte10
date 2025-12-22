@@ -1,6 +1,10 @@
 # 💫 About Me:
-I am currently working java fullstack development. i want to learn and make project in java using springboot and microservices. I have 2 years of experience. Also, I have worked in LoanIQ project.
+👨‍💻 Java Full Stack Developer with 2 years of industry experience.
 
+⚙️ Skilled in Java, Spring Boot, and REST API development
+🗃️ Experienced with SQL / PL/SQL, MS SQL Server, and PostgreSQL
+
+🌱 Always learning, improving code quality, and exploring best practices in backend development.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anand-tarte) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anandtarte10@gmail.com) 
