@@ -1,107 +1,22 @@
-<div align="center">
-```
- █████╗ ███╗   ██╗ █████╗ ███╗   ██╗██████╗
-██╔══██╗████╗  ██║██╔══██╗████╗  ██║██╔══██╗
-███████║██╔██╗ ██║███████║██╔██╗ ██║██║  ██║
-██╔══██║██║╚██╗██║██╔══██║██║╚██╗██║██║  ██║
-██║  ██║██║ ╚████║██║  ██║██║ ╚████║██████╔╝
-╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝
-```
-Java Backend Developer · Pune, India
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=anandtarte10&style=flat-square&color=0A66C2&label=Profile+Views)
-</div>
----
-`whoami`
-```java
-public class Anand extends Developer {
+# 💫 About Me:
+👨‍💻 Java Full Stack Developer with 2 years of industry experience.
 
-    String name        = "Anand Tarte";
-    String role        = "Java Backend Developer";
-    String company     = "Tech Mahindra, Pune";
-    int    experience  = 2; // years
+⚙️ Skilled in Java, Spring Boot, and REST API development
+🗃️ Experienced with SQL / PL/SQL, MS SQL Server, and PostgreSQL
 
-    String[] currentlyBuilding = { "LoanTrack Pro — Microservices Loan Management System" };
-    String[] learning          = { "System Design", "Spring Cloud", "Kafka Streams" };
-    String   askMeAbout        = "Java · Spring Boot · Microservices · REST APIs";
+🌱 Always learning, improving code quality, and exploring best practices in backend development.
 
-    String funFact = "I debug with coffee ☕ and fix bugs before standup 🐛";
-}
-```
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anand-tarte) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anandtarte10@gmail.com) 
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=anandtarte10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=anandtarte10&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anandtarte10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ---
-⚡ Tech Stack
-Core
-![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.x-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate_JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
-![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-Tools
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
----
-🏗️ Featured Projects
-<table>
-<tr>
-<td width="50%">
-🏦 LoanTrack Pro
-> Microservices-based loan management system
-Java 17 · Spring Boot · Spring Cloud
-Eureka, API Gateway, Kafka, JWT Auth
-PostgreSQL · Docker · AWS
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anandtarte10&repo=LoanTrack-Pro&theme=github_dark&hide_border=true)
-</td>
-<td width="50%">
-📦 Inventory Forecasting Service
-> Demand forecasting with auto purchase orders
-Spring Boot · MySQL · REST APIs
-Moving average forecasting algorithm
-Handles cold starts & missing data
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anandtarte10&repo=inventory-forecasting-service&theme=github_dark&hide_border=true)
-</td>
-</tr>
-</table>
----
-📊 GitHub Stats
-<div align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandtarte10&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anandtarte10&layout=compact&theme=github_dark&hide_border=true)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=anandtarte10&theme=github_dark&hide_border=true)
-</div>
----
-🏅 Certifications
-Badge	Certification
-☁️	AWS Certified Cloud Practitioner — Amazon Web Services
-🤖	GitHub Copilot Certification — Microsoft
-🧠	Azure AI Fundamentals (AI-900) — Microsoft
-🏦	Finastra Fusion Loan IQ — Foundation & Advanced Technical 7.6
-⚡	AI White Belt Certification — Tech Mahindra
----
-🌐 Domain Knowledge
-```
-Fintech  ████████████████░░░░  Strong
-Banking  ███████████████░░░░░  Strong (Finastra Loan IQ)
-Payroll  ████████████░░░░░░░░  Experienced
-Inventory████████░░░░░░░░░░░░  Familiar
-```
----
-<div align="center">
-"First, solve the problem. Then, write the code."
-⭐ Star my repos if you find them useful!
-</div>
+[![](https://visitcount.itsvg.in/api?id=anandtarte10&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
